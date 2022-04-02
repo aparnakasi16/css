@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(23, 195, 100);
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color: rgb(6, 19, 15);
+}
